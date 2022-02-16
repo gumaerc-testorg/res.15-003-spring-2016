@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 5.2 For More Information...
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video: Center for American Progress: Unions Make the Middle Class'
 uid: 6957e0fe-b844-957d-2956-4f0f250ce7c9

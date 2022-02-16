@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: '1 Introduction: Challenges and Opportunities'
 uid: df93fe47-3c48-d7d1-4fa8-ea3d9f3faf34
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Assignments and Polls
+parent_type: SupplementalResourceSection
 parent_uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 title: Week 6 Assignments
 uid: 82e810b9-f780-6189-f95b-0c175f178d3b

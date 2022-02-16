@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2.2 For More Information...
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video: USDOL: It''s Time to Lead on Leave'
 uid: fa9498a1-a205-8cdf-40ac-55d719d459a3

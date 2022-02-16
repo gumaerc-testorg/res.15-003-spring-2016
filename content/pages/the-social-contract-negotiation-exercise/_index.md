@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 6 The Social Contract Negotiation Exercise
 uid: 06700492-6edd-af8f-bf2b-db9e3d3583b8
 ---

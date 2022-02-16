@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 7 Student Reports on Their Plans for Action
 uid: 5f95245a-6d5e-2d61-826e-4de065f39fcc
 ---

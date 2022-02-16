@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/3cfa517541718c7f867baf008164b2ed_C-n3hyz-sSY.pdf
+file: /media/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/3cfa517541718c7f867baf008164b2ed_C-n3hyz-sSY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 3cfa5175-4171-8c7f-867b-af008164b2ed

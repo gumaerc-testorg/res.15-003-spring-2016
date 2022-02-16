@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
+parent_type: SupplementalResourceSection
 parent_uid: 18bae989-2a0a-d3ae-85c2-2596eee9b14a
 title: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
 uid: 37b4aca2-3191-5777-35a2-baa746d01da9
 ---
 
-*   [<Video: Interviews with Barbara Dyer and Scott Stern]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-interviews-with-barbara-dyer-and-scott-stern)
+*   [\<Video: Interviews with Barbara Dyer and Scott Stern]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-interviews-with-barbara-dyer-and-scott-stern)
 *   [4.1.1Video: Week 4 Introduction]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work)
 *   [4.1.2Video: What Occupations are Growing?]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-what-occupations-are-growing)
 *   [4.1.3Video: Emerging Forms of Work]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-emerging-forms-of-work)

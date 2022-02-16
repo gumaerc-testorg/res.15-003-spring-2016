@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Assignments and Polls
+parent_type: SupplementalResourceSection
 parent_uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 title: Week 3 Assignments
 uid: 234d93e1-0acc-bc1c-8453-f97cb67960b4

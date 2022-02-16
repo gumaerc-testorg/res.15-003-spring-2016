@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 1.3 For More Information...
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video: EPI: Runaway CEO Pay in 30 Seconds'
 uid: 83633ba6-9e22-3f78-9e1c-13e1d206e9a5

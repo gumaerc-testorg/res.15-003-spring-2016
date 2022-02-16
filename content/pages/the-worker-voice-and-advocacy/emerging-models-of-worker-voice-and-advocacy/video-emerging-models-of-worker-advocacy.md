@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 5.1 Emerging Models of Worker Voice and Advocacy
+parent_type: SupplementalResourceSection
 parent_uid: f64caa34-6fa7-0afb-a933-c8855e020995
 title: 5.1 Emerging Models of Worker Voice and Advocacy
 uid: 76bfd97f-3794-a2e7-d5c9-5cabb59ab705
 ---
 
-*   [<Video: The Decline of Unions in the United States]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-the-decline-of-unions-in-the-united-states)
+*   [\<Video: The Decline of Unions in the United States]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-the-decline-of-unions-in-the-united-states)
 *   [5.1.1Video: Week 5 Introduction]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy)
 *   [5.1.2Video: The Decline of Unions in the United States]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-the-decline-of-unions-in-the-united-states)
 *   [5.1.3Video: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 4 New Emerging Models
 uid: 3540dcb6-fb3e-3c8e-faca-c24bd7cb1835
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Assignments and Polls
 uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 ---

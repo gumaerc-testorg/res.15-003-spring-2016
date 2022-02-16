@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 533d102e-fe06-9d1d-b963-beda43cca2a1
 title: Adapting Content, Communicating Differently
 uid: 5561a0f4-bcdf-0f2e-3ca2-fe7ea9878867

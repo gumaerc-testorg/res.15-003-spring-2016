@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 5 The Worker Voice and Advocacy
+parent_type: SupplementalResourceSection
 parent_uid: 4ecd2426-44a7-38e7-a279-02211bfbfebc
 title: 5.2 For More Information...
 uid: e2fc4597-2bf2-1df2-8f17-2455eb1e2193
 ---
 
-*   [<Video: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)
+*   [\<Video: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)
 *   [5.2.1Additional Resources]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/for-more-information-2)
 *   [\>The Social Contract Negotiation Exercise]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise)
 

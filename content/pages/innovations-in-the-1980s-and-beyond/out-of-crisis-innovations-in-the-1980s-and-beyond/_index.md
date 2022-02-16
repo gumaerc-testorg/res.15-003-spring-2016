@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 3 Innovations in the 1980s and Beyond
+parent_type: SupplementalResourceSection
 parent_uid: cc30bcc3-b45c-6b22-0f21-45ce29d9b264
 title: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
 uid: 258e8c83-6d79-345d-402f-95a9cd7cf2cd
 ---
 
-*   [<Innovations in the 1980s and Beyond]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond)
+*   [\<Innovations in the 1980s and Beyond]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond)
 *   [3.1.1Video: Week 3 Introduction]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond)
 *   [3.1.2Video: What Changed in the 1980s and Why Should We Care?]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-what-changed-in-the-1980s-and-why-should-we-care)
 *   [3.1.3Video: The Purpose of the American Corporation]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-the-purpose-of-the-american-corporation)

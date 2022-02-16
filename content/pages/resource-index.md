@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Resource Index
 uid: e5f20d47-d4ec-6b5c-b450-805b230e1676
 ---

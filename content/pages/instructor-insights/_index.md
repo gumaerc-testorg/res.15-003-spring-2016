@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 533d102e-fe06-9d1d-b963-beda43cca2a1
 ---
@@ -70,18 +72,6 @@ None
 ### Offered
 
 MITx offers a free version of this subject [on the edX platform](https://www.edx.org/school/mitx): _15.662x Shaping the Future of Work_.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Screenshot of “Class 1” on the edX platform. A left navigation menu features section titles. There is an option to play a video, entitled “An Introduction from Professor Kochan,” in the center of the screen.]({{< resource_file 68574524-b055-db35-fed0-38721cb5c55b >}})
-    
-    ### Online course on edX platform
-    
-    Class sessions in this MOOC were offered on the edX platform. The image on the left depicts an introduction video that students watch during the first class session.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

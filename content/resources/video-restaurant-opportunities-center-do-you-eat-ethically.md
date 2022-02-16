@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 5.2 For More Information...
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video: Restaurant Opportunities Center: Do You Eat Ethically?'
 uid: 34f5db74-bc3d-157a-ab5e-ef0008f3f201

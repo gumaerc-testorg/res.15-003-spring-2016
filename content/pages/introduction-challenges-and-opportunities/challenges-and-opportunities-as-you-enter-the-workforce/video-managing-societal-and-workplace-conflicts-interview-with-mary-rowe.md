@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 1.2 Challenges and Opportunities as You Enter the Workforce
+parent_type: SupplementalResourceSection
 parent_uid: 173cc7dd-fe9f-3f4f-025e-f7e0b4b36f62
 title: 1.2 Challenges and Opportunities as You Enter the Workforce
 uid: b320a682-be4f-4e2b-9ec4-c5454261bbf5
 ---
 
-*   [<Video: All Innovations Are Local]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-all-innovations-are-local)
+*   [\<Video: All Innovations Are Local]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-all-innovations-are-local)
 *   [1.2.1Video: A Message from U.S. Secretary of Labor Thomas Perez to the Next Generation Workforce]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce)
 *   [1.2.2Video: Animated Version of the Evolution History of Work]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-animated-version-of-the-evolution-history-of-work)
 *   [1.2.3Video: A Message from AFL-CIO Secretary Treasurer Liz Shuler]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-a-message-from-afl-cio-secretary-treasurer-liz-shuler)

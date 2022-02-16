@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 2 The Old Social Contract
 uid: 70bd0a36-33bf-549f-7c43-cefbaf26cba9
 ---

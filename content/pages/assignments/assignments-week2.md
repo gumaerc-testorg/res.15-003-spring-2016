@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Assignments and Polls
+parent_type: SupplementalResourceSection
 parent_uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 title: Week 2 Assignments
 uid: 75a94bbd-5874-00e9-cb90-d9e8a81237e1

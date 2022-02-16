@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 3 Innovations in the 1980s and Beyond
 uid: cc30bcc3-b45c-6b22-0f21-45ce29d9b264
 ---

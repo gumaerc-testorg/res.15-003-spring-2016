@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 5 The Worker Voice and Advocacy
 uid: 4ecd2426-44a7-38e7-a279-02211bfbfebc
 ---

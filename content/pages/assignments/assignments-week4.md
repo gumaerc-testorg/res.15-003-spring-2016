@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Assignments and Polls
+parent_type: SupplementalResourceSection
 parent_uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 title: Week 4 Assignments
 uid: 2cdcffb4-876c-b136-8321-2e200c572bfc

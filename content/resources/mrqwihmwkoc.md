@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/dc416ff3654d568d00c8c6b0d1bc82d6_MrQwihmwKoc.srt
+file: /media/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/dc416ff3654d568d00c8c6b0d1bc82d6_MrQwihmwKoc.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: dc416ff3-654d-568d-00c8-c6b0d1bc82d6
