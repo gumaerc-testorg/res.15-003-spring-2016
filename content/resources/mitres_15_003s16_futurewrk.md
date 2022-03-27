@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: Preparing for and Shaping the Future of Work and Organizations
 uid: dde67a6f-1ad6-4f49-5a9c-b519a68c35f3

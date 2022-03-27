@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video: A Guide to the Next Generation Social Contract Negotiations Exercise'
 uid: dc3d9cd2-cce7-5179-e29e-5095137bffa4
 video_files:

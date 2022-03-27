@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: New Charters / Governance Models
 uid: be66a30a-a493-0320-85a9-a4c7fe3d4363

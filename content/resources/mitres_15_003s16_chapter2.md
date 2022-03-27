@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: 'Chapter 2: The Post War Social Contract in Shaping the Future of Work'
 uid: f0ffaf0d-a4ab-e2b6-9afd-c4fa76a4e7fe

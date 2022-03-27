@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: "Chapter 1: The Next Generation\u2019s American Dream: What Can Be Done to\
   \ Achieve It? in Shaping the Future of Work"

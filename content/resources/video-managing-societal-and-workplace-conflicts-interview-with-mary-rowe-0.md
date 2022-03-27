@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video: Managing Societal and Workplace Conflicts:  Interview with Mary Rowe'
 uid: a84bdbd2-c38f-8a22-4a2d-e68604233581
 video_files:

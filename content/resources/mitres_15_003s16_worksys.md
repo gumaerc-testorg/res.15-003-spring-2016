@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: "\u201CHigh Road\u201D and \u201CLow Road\u201D Strategies and the Birth of\
   \ High Performance Work Systems"

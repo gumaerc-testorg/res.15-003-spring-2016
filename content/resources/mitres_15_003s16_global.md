@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: 'Global Firms: Can we hold them Accountable?'
 uid: 58fa95f3-c2e6-839a-0241-753e6c496f4f

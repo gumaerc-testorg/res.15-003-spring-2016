@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: 'Kochan Chapter 5: A New Age of Innovation?'
 uid: 815ead7f-49fa-be32-5d65-8cec6f9b30ad

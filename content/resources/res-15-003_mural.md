@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Valuing the Contributions of Others
 parent_type: CourseSection
+parent_uid: aa059fb3-678c-cdd9-8692-3b443c48a843
 resourcetype: Image
 title: RES.15-003_mural.jpg
 uid: 3c7879ac-ad11-2736-31a5-099e3d3c677f

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video: A Message from AFL-CIO Secretary Treasurer Liz Shuler'
 uid: aa7a0087-fcec-d027-219e-ee9dc6c9b7fa
 video_files:

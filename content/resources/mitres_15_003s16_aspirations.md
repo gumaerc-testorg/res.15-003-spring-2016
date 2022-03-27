@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Week 1 Assignments
 parent_type: SupplementalResourceSection
+parent_uid: ef817a31-4049-6ab2-196d-039b0fac2a4f
 resourcetype: Image
 title: MITRES_15_003S16_aspirations.png
 uid: f0cf0b38-1373-d7c8-9379-5ef5cd769c16

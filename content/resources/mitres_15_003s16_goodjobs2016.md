@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Polls
 parent_type: SupplementalResourceSection
+parent_uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 resourcetype: Document
 title: 'The Good Jobs Survey: 2016'
 uid: 606c3386-de85-2cab-188e-e303536b1540

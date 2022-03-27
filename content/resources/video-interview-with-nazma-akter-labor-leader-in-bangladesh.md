@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video: Interview with Nazma Akter, Labor Leader in Bangladesh'
 uid: 96a14cd7-c115-ca4c-b66c-b0af0afbe53c
 video_files:

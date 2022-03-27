@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video: Interview with Jianming Zhou and Ryder Pearce, Co-Founders of Sherpashare'
 uid: 9e8e44dc-fbff-3389-88f5-a536c94a6dad
 video_files:

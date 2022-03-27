@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Week 2 Assignments
 parent_type: SupplementalResourceSection
+parent_uid: 75a94bbd-5874-00e9-cb90-d9e8a81237e1
 resourcetype: Image
 title: MITRES_15_003S16_social_contract.png
 uid: 384dda3e-a0ba-1bf2-3445-9dea68b22c2c

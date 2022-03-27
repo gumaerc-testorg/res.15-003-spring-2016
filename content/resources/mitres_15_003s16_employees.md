@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Week 3 Assignments
 parent_type: SupplementalResourceSection
+parent_uid: 234d93e1-0acc-bc1c-8453-f97cb67960b4
 resourcetype: Image
 title: MITRES_15_003S16_employees.png
 uid: 2504364e-d81c-33d3-1265-09211e80d52f

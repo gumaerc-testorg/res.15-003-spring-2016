@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Reaching Audiences More Effectively
 parent_type: CourseSection
+parent_uid: 9f03331a-f390-bae1-961c-a4a065522188
 resourcetype: Image
 title: RES.15-003_together.jpg
 uid: 19e49b79-3454-3b0e-8086-2549ebf2c3da
