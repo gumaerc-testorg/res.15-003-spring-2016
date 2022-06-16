@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan examines the rise and fall of Saturn, an automobile manufacturer that operated as a subsidiary of GM until 2009.
 
 **Instructor**: Tom Kochan
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 6.1 Social Contract Negotiations Exercise
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan gives a summary of what is expected for the negotiation exercise that took place during week 6 of the course.
 
 **Instructor**: Tom Kochan
+
+
+

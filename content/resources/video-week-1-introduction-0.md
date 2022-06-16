@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 1.1 Introduction to the Course and the 15.662x Team
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: This video includes an overview of the first week of the course, with reference to current events around the world.
 
 **Instructor**: Tom Kochan
+
+
+

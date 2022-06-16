@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 5.1 Emerging Models of Worker Voice and Advocacy
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: This week will focus on the worker's voice and advocacy, good quality jobs, new forms of organizing and the decline of unions, and will introduction and prepare students for the negotiation simulation exercise.
 
 **Instructor**: Christine Riordan
+
+
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Tom Kochan describes the challenge of assessing
+  learning in an online course not defined by right or wrong answers and shares a
+  strategy for responding creatively to assessment in this kind of context.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +11,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 533d102e-fe06-9d1d-b963-beda43cca2a1
 title: Assessment in an Online Course
 uid: 7812a93a-44ef-b5a1-dc9c-e62cd47381e1
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Professor Tom Kochan describes the challenge of assessing learning in an online course not defined by right or wrong answers and shares a strategy for responding creatively to assessment in this kind of context._

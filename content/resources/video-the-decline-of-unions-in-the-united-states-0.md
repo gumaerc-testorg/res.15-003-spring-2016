@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 5.1 Emerging Models of Worker Voice and Advocacy
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Christine Riordan takes a closer look at how the role of unions in the workplace and in the lives in working people has changed over time.
 
 **Instructor**: Christine Riordan
+
+
+

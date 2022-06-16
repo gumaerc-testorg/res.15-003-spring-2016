@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan examines how we can hold corporations accountable for good, humane practices when they operate across different legal environments.
 
 **Instructor**: Tom Kochan
+
+
+

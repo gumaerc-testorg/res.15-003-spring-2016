@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 1.2 Challenges and Opportunities as You Enter the Workforce
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: This video outlines the evolution of work from early civilizations to the modern era, and how the labor movement influence working conditions throughout history.
 
 **Instructor**: (no speaker / animated video)
+
+
+

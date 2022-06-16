@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Professor Tom Kochan shares that he\u2019d like to\
+  \ find ways to connect people and organizations with course materials that will\
+  \ help them improve the experience of work."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,11 +11,13 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 533d102e-fe06-9d1d-b963-beda43cca2a1
 title: Reaching Audiences More Effectively
 uid: 9f03331a-f390-bae1-961c-a4a065522188
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Professor Tom Kochan shares that he’d like to find ways to connect people and organizations with course materials that will help them improve the experience of work._
 
-![Close-up of two strong forearms with hands clenched into fists representing labor and management.]({{< resource_file 19e49b79-3454-3b0e-8086-2549ebf2c3da >}})
+{{< resource 19e49b79-3454-3b0e-8086-2549ebf2c3da >}}
 
 World War II era propaganda poster encouraging unity between labor and management. (Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TOGETHER_WE_CAN_DO_IT_-_KEEP_%60EM_FIRING_-_NARA_-_515856.jpg).)
 

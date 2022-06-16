@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan interviews Heidi Shierholz, an Economist at the U.S. Department of Labor about job opportunities for young people entering the workforce today.
 
 **Instructors**: Tom Kochan and Heidi Shierholz
+
+
+

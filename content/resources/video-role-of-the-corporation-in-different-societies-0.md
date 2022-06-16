@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 3.2 Around the World
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan gives and overview of corporations in several different countries.
 
 **Instructor**: Tom Kochan
+
+
+

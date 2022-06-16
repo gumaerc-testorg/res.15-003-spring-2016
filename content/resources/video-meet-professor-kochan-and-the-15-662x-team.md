@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 1.1 Introduction to the Course and the 15.662x Team
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan contextualizes the course and gives some personal background. The rest of the teaching team, Barbara Dyer, Zeynep Ton, Christine Riordan, Francesca Cicileo, and John McCarthy, introduce themselves and the topics they will cover in the course.
 
 **Instructors**: Tom Kochan, Barbara Dyer, Zeynep Ton, Christing Riordan, Francesca Cicileo and John McCarthy
+
+
+

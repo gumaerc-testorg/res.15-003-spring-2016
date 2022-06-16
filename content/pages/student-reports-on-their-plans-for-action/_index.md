@@ -1,14 +1,17 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 7 Student Reports on Their Plans for Action
 uid: 5f95245a-6d5e-2d61-826e-4de065f39fcc
+video_metadata:
+  youtube_id: null
 ---
 
-*   [BackVideo: A Guide to the Next Generation Social Contract Negotiations Exercise]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise/video-a-guide-to-the-next-generation-social-contract-negotiations-exercise)
-*   [ContinueLive Event Presentation]({{< baseurl >}}/pages/student-reports-on-their-plans-for-action/live-event-presentation)
+*   {{% resource_link d0e726de-6851-0598-be55-c4290f521f29 "BackVideo: A Guide to the Next Generation Social Contract Negotiations Exercise" %}}
+*   {{% resource_link d1a164f4-e850-d6ed-b29a-355c3e862085 "ContinueLive Event Presentation" %}}
 
 **7.1 Live Event Presentation**
 
-*   [7.1.1 Video: Discussion of Students Reports on Their Plans for Action]({{< baseurl >}}/pages/student-reports-on-their-plans-for-action/live-event-presentation)
+*   {{% resource_link d1a164f4-e850-d6ed-b29a-355c3e862085 "7.1.1 Video: Discussion of Students Reports on Their Plans for Action" %}}

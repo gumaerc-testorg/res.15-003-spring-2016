@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 1.2 Challenges and Opportunities as You Enter the Workforce
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan and Mary Rowe discuss how social conflicts affect the workplace and how to address "micro-inequities."
 
 **Instructors**: Tom Kochan and Mary Rowe
+
+
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section describes the assignments for week 2.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Assignments and Polls
@@ -7,6 +8,8 @@ parent_type: SupplementalResourceSection
 parent_uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 title: Week 2 Assignments
 uid: 75a94bbd-5874-00e9-cb90-d9e8a81237e1
+video_metadata:
+  youtube_id: null
 ---
 
 Week 2: Career Planning First Step
@@ -20,7 +23,7 @@ Once you complete the questions, the Profiler arrays the strength of your intere
 
 **Students' responses to the question: Do you feel it’s important that wages and productivity rises together?**
 
-![Pie chart showing the following data: 85.9% Yes, it's important that wages and productivity rises together; 5.8% No, it's not important that wages and productivity rises together; 8.3% I am not sure.]({{< resource_file 384dda3e-a0ba-1bf2-3445-9dea68b22c2c >}})
+{{< resource 384dda3e-a0ba-1bf2-3445-9dea68b22c2c >}}
 
 For this assignment, there are four steps:
 
@@ -30,7 +33,7 @@ For this assignment, there are four steps:
 4.  Write up your experiences and submit them for peer review. Be sure to describe the job you considered, where you turned for information, and the feedback that you received.
 5.  Week 3: Good Job Survey
 
-Visit an organization and rate it based on the “good jobs” app provided on the survey website: [2016 Good Jobs Survey (PDF)](/editor{{< baseurl >}}/resources/mitres_15_003s16_goodjobs2016). This can be the organization you work for or have worked for in the past or an organization where you shop as a customer, or some other organization you know well. Report the data on the course website with a comment on what it would take to make it a truly “Great Company and Great Place to Work!”
+Visit an organization and rate it based on the “good jobs” app provided on the survey website: {{% resource_link "606c3386-de85-2cab-188e-e303536b1540" "2016 Good Jobs Survey (PDF)" %}}. This can be the organization you work for or have worked for in the past or an organization where you shop as a customer, or some other organization you know well. Report the data on the course website with a comment on what it would take to make it a truly “Great Company and Great Place to Work!”
 
 1.  Which company did you choose and what is your relationship with the company (e.g., employee, customer)?
 2.  In your opinion, what practices make this employer a "high road" or "low road" employer?

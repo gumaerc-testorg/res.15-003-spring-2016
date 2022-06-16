@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Profs. Kochan and Brynjolfsson discuss the modern technological wave of innovations and how to potentially shape and design the technologies for future shared prosperity.
 
 **Instructors**: Tom Kochan and Erik Brynjolfsson
+
+
+

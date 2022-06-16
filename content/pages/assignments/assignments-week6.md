@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section describes the assignments for week 6.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Assignments and Polls
@@ -7,6 +8,8 @@ parent_type: SupplementalResourceSection
 parent_uid: 94fe577d-947e-50f0-ad69-b2b814bc701f
 title: Week 6 Assignments
 uid: 82e810b9-f780-6189-f95b-0c175f178d3b
+video_metadata:
+  youtube_id: null
 ---
 
 Week 6: Negotiations Exercise
@@ -44,4 +47,4 @@ In this stage, you will meet three other people in each of the other roles onlin
 
 After you agree with your fellow group members on specific issues, you need to record the terms of the issues on which you reached an agreement into the Settlement Survey.
 
-For more detailed information about the exercise, please watch our [short introductory video]({{< baseurl >}}/resources/video-a-guide-to-the-next-generation-social-contract-negotiations-exercise-0).
+For more detailed information about the exercise, please watch our {{% resource_link dc3d9cd2-cce7-5179-e29e-5095137bffa4 "short introductory video" %}}.

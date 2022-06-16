@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 2.1 What Made the Old Social Contract Work and Why did It Break Down?
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan examines a series of historical events, including rising wealth inequality in the 1920s and the Great Depression, that remain highly relevant today.
 
 **Instructor**: Tom Kochan
+
+
+

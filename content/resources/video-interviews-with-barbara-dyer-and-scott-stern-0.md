@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: Prof. Kochan interviews Scott Stern, Chair of the Sloan School's TIES group, and Barbara Dyer, the President of the Hitachi Foundation.
 
 **Instructors**: Tom Kochan, Scott Stern and Barbara Dyer
+
+
+

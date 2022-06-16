@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 1.1 Introduction to the Course and the 15.662x Team
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: This class is about building a strong, socially responsible economy; in this video Prof. Kochan explains the course and its motivations.
 
 **Instructor**: Tom Kochan
+
+
+

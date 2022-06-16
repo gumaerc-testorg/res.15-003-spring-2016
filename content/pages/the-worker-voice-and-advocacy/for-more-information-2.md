@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 5 The Worker Voice and Advocacy
@@ -7,11 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 4ecd2426-44a7-38e7-a279-02211bfbfebc
 title: 5.2 For More Information...
 uid: e2fc4597-2bf2-1df2-8f17-2455eb1e2193
+video_metadata:
+  youtube_id: null
 ---
 
-*   [\<Video: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)
-*   [5.2.1Additional Resources]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/for-more-information-2)
-*   [\>The Social Contract Negotiation Exercise]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise)
+*   {{% resource_link "76bfd97f-3794-a2e7-d5c9-5cabb59ab705" "« Video: Emerging Models of Worker Advocacy" %}}
+*   {{% resource_link e2fc4597-2bf2-1df2-8f17-2455eb1e2193 "5.2.1Additional Resources" %}}
+*   {{% resource_link "06700492-6edd-af8f-bf2b-db9e3d3583b8" "» The Social Contract Negotiation Exercise" %}}
 
 Additional Resources
 --------------------
@@ -48,5 +51,5 @@ Also check out [an animated history and description of the Freelancers Union](h
 
 Finally, [in the video: "What is the Worker's Lab"](https://youtu.be/Zg9KQUbkS54) you can find out more about [The Workers Lab](http://theworkerslab.com/), an accelerator that invests in new, entrepreneurial initiatives to improve work for the low-wage labor force.
 
-*   [BackVideo: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)
-*   [ContinueThe Social Contract Negotiation Exercise]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise)
+*   {{% resource_link 76bfd97f-3794-a2e7-d5c9-5cabb59ab705 "BackVideo: Emerging Models of Worker Advocacy" %}}
+*   {{% resource_link 06700492-6edd-af8f-bf2b-db9e3d3583b8 "ContinueThe Social Contract Negotiation Exercise" %}}

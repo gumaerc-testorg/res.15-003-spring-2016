@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 5.1 Emerging Models of Worker Voice and Advocacy
@@ -7,13 +8,15 @@ parent_type: SupplementalResourceSection
 parent_uid: f64caa34-6fa7-0afb-a933-c8855e020995
 title: 5.1 Emerging Models of Worker Voice and Advocacy
 uid: 0dae445d-1cdd-a429-7972-39550ed13736
+video_metadata:
+  youtube_id: null
 ---
 
-*   [\<Emerging Models of Worker Voice and Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy)
-*   [5.1.1Video: Week 5 Introduction]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy)
-*   [5.1.2Video: The Decline of Unions in the United States]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-the-decline-of-unions-in-the-united-states)
-*   [5.1.3Video: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)
-*   [\>Video: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)
+*   {{% resource_link "f64caa34-6fa7-0afb-a933-c8855e020995" "« Emerging Models of Worker Voice and Advocacy" %}}
+*   {{% resource_link f64caa34-6fa7-0afb-a933-c8855e020995 "5.1.1Video: Week 5 Introduction" %}}
+*   {{% resource_link 0dae445d-1cdd-a429-7972-39550ed13736 "5.1.2Video: The Decline of Unions in the United States" %}}
+*   {{% resource_link 76bfd97f-3794-a2e7-d5c9-5cabb59ab705 "5.1.3Video: Emerging Models of Worker Advocacy" %}}
+*   {{% resource_link "76bfd97f-3794-a2e7-d5c9-5cabb59ab705" "» Video: Emerging Models of Worker Advocacy" %}}
 
 In today's economy we are seeing new ways of organizing work as firms engage in different business strategies and develop new organizational forms.  In many ways, these new forms of organizing work mark a departure from the traditional model of firms and, in turn, workers' career paths within firms.
 
@@ -37,5 +40,5 @@ Attentiveness Question
 
 By 2013, just under 7% of employees in the private sector had union membership. In the public sector, on the other hand, just over 33% of employees belonged to a union, bringing the overall (private and public sector) rate of union membership to 11.3%. By 2015, these membership rates were relatively unchanged.{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
 
-*   [BackEmerging Models of Worker Voice and Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy)
-*   [ContinueVideo: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)
+*   {{% resource_link f64caa34-6fa7-0afb-a933-c8855e020995 "BackEmerging Models of Worker Voice and Advocacy" %}}
+*   {{% resource_link 76bfd97f-3794-a2e7-d5c9-5cabb59ab705 "ContinueVideo: Emerging Models of Worker Advocacy" %}}
