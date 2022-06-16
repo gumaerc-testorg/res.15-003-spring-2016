@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2 The Old Social Contract
@@ -7,11 +9,12 @@ parent_type: SupplementalResourceSection
 parent_uid: 70bd0a36-33bf-549f-7c43-cefbaf26cba9
 title: 2.2 For More Information...
 uid: 83316687-e25d-0ebe-f205-81a0b8163483
+video_metadata:
+  youtube_id: null
 ---
-
-*   [\<Video: Careers and Competencies with Professor Lee Dyer]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-careers-and-competencies-with-professor-lee-dyer)
-*   [2.2.1Additional Resources]({{< baseurl >}}/pages/the-old-social-contract/for-more-information-0)
-*   [\>Innovations in the 1980s and Beyond]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond)
+- {{% resource_link a7ef84a2-ef94-0f04-e143-7eb937a7f575 "<Video: Careers and Competencies with Professor Lee Dyer</a>" %}}
+- {{% resource_link 83316687-e25d-0ebe-f205-81a0b8163483 "2.2.1Additional Resources" %}}
+- {{% resource_link cc30bcc3-b45c-6b22-0f21-45ce29d9b264 ">Innovations in the 1980s and Beyond" %}}
 
 ### Additional Resources
 
@@ -21,12 +24,9 @@ As we move through the course, we'll also be talking about efforts currently und
 
 Kochan, Tom. “[American Doesn’t Just 'Need a Raise,' We Need a New National Norm for Wage Growth](https://theconversation.com/america-doesnt-just-need-a-raise-we-need-a-new-national-norm-for-wage-growth-46831).”
 
-The following video is from YouTube and is not covered by our [Creative Commons license](/terms/#cc).
+## U.S. Department of Labor: It's Time to Lead on Leave
 
-U.S. Department of Labor: It's Time to Lead on Leave
-----------------------------------------------------
+*Did you know? The U.S. is the only industrialized nation without any paid family leave law. With the changing nature of our 21st-century workforce, it's getting harder and harder to balance the demands of the family you love and the job you need. Change has yet to come to Washington, but momentum is growing in the states: So far, California, Rhode Island and New Jersey have passed paid leave laws. It's time to update workplace policies that are stuck in the past and give more Americans paid family leave – to take care of sick loved ones and newborn children*. [Learn more about paid leave in the U.S.](https://www.dol.gov/general/topic/benefits-leave)
 
-_Did you know? The U.S. is the only industrialized nation without any paid family leave law. With the changing nature of our 21st-century workforce, it's getting harder and harder to balance the demands of the family you love and the job you need. Change has yet to come to Washington, but momentum is growing in the states: So far, California, Rhode Island and New Jersey have passed paid leave laws. It's time to update workplace policies that are stuck in the past and give more Americans paid family leave – to take care of sick loved ones and newborn children_. [Learn more about paid leave in the U.S.](https://www.dol.gov/general/topic/benefits-leave)
-
-*   [BackVideo: Careers and Competencies with Professor Lee Dyer]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-careers-and-competencies-with-professor-lee-dyer)
-*   [ContinueInnovations in the 1980s and Beyond]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond)
+- {{% resource_link a7ef84a2-ef94-0f04-e143-7eb937a7f575 "BackVideo: Careers and Competencies with Professor Lee Dyer" %}}
+- {{% resource_link cc30bcc3-b45c-6b22-0f21-45ce29d9b264 "ContinueInnovations in the 1980s and Beyond" %}}
