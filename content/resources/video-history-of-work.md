@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: This video outlines the evolution of work from early civilizations to the modern era, and how the labor movement influence working conditions throughout history.
 
 **Instructor**: (no speaker / animated video)
-
-
 

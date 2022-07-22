@@ -6,6 +6,7 @@ file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/58fa95f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding global firms: can we hold them accountable?.
-

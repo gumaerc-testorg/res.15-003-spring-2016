@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: John McCarthy talks about new, technology-mediated work arrangements like Uber and TaskRabbit.com.
 
 **Instructor**: John McCarthy
-
-
 

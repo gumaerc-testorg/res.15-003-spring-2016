@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Our economies need to encourage and grow high-road firms, that are good for shareholders as well as employees. This week the course will look at the system of practices that fit together in an organization to make this happen.
 
 **Instructor**: Tom Kochan
-
-
 

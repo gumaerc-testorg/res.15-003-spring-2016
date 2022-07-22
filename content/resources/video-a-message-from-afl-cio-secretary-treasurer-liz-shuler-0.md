@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Interview with Liz Shuler, Secretary-Treasurer of the AFL-CIO, about the state of the labor movement in the U.S.
 
 **Instructors**: Tom Kochan and Liz Shuler
-
-
 

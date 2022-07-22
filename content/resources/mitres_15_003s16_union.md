@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Pie chart showing the following data: 2.4% Yes; 65.3% No; 2.6% I''m
     not sure; 19.7% I''m not currently employed.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Week 1 Assignments
 parent_type: SupplementalResourceSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Poll data pie chart for the question: Are you currently represented by a labor union?
-

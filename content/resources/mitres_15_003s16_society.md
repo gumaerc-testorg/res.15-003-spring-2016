@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Pie chart showing the following data: 1.3% Not at all responsible; 35.6%
     Partly responsible; 63.1% Very responsible.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Week 3 Assignments
 parent_type: SupplementalResourceSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Students' responses to the question: How responsible do you feel that corporations should be toward society at large?
-

@@ -12,6 +12,7 @@ image_metadata:
     be an entrepreneur; 13.5% To make a very good income; 24.1% To solve big and important
     problems; 24.9% To find work/life balance; 12.7% To help others.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Week 1 Assignments
 parent_type: SupplementalResourceSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Students' responses to the question: What is your primary aspiration for work?
-

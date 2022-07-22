@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Prof. Kochan examines the rise and fall of Saturn, an automobile manufacturer that operated as a subsidiary of GM until 2009.
 
 **Instructor**: Tom Kochan
-
-
 

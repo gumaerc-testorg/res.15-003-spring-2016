@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Prof. Kochan interviews Scott Stern, Chair of the Sloan School's TIES group, and Barbara Dyer, the President of the Hitachi Foundation.
 
 **Instructors**: Tom Kochan, Scott Stern and Barbara Dyer
-
-
 

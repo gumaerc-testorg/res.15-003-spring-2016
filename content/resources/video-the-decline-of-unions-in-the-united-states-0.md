@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Christine Riordan takes a closer look at how the role of unions in the workplace and in the lives in working people has changed over time.
 
 **Instructor**: Christine Riordan
-
-
 

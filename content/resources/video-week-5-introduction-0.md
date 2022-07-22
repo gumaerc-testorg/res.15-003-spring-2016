@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: This week will focus on the worker's voice and advocacy, good quality jobs, new forms of organizing and the decline of unions, and will introduction and prepare students for the negotiation simulation exercise.
 
 **Instructor**: Christine Riordan
-
-
 

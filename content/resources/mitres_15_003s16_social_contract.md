@@ -12,6 +12,7 @@ image_metadata:
     wages and productivity rises together; 5.8% No, it''s not important that wages
     and productivity rises together; 8.3% I am not sure.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Week 2 Assignments
 parent_type: SupplementalResourceSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Students' responses to the following question: Do you feel it’s important that wages and productivity rises together?
-

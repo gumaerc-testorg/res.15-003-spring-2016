@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Prof. Kochan examines a series of historical events, including rising wealth inequality in the 1920s and the Great Depression, that remain highly relevant today.
 
 **Instructor**: Tom Kochan
-
-
 

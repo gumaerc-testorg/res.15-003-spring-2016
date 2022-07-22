@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Prof. Kochan offers an overview of the second week which includes a history of the Social Contract, introduction of the MIT residential MBA and other experts to the discussion, beginning of personal career project assignment.
 
 **Instructor**: Tom Kochan
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Prof. Kochan contextualizes the course and gives some personal background. The rest of the teaching team, Barbara Dyer, Zeynep Ton, Christine Riordan, Francesca Cicileo, and John McCarthy, introduce themselves and the topics they will cover in the course.
 
 **Instructors**: Tom Kochan, Barbara Dyer, Zeynep Ton, Christing Riordan, Francesca Cicileo and John McCarthy
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description**: This video interview reflects on the changing nature of work, importance of education, the pressing challenges for the current workforce, and possible solutions.
 
 **Instructors**: Tom Kochan and Tom Perez
-
-
 

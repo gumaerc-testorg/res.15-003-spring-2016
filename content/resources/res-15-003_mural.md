@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Men and women holding signs that say "Higher Wages," "Collective Bargaining,"
     "5-day Week" and other slogans.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Valuing the Contributions of Others
 parent_type: CourseSection
