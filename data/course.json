@@ -49,8 +49,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Online Textbook"
+    "Online Textbook",
+    "Instructor Insights"
   ],
-  "site_uid": "e3c92768-2f6b-47ef-9930-b0a5cfc26cb3",
+  "site_uid": "2f4a16d0-135f-4a12-aff5-2afefcee89fb",
+  "site_short_id": "res.15-003-spring-2016",
   "title": "Course Metadata"
 }
