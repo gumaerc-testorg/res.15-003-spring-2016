@@ -3,6 +3,7 @@ content_type: resource
 description: "Students' responses to the following question: Do you feel it\u2019\
   s important that wages and productivity rises together?"
 file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/384dda3ea0ba1bf234459dea68b22c2c_MITRES_15_003S16_social_contract.png
+file_size: 41397
 file_type: image/png
 image_metadata:
   caption: "Students' responses to the following question: Do you feel it\u2019s important\

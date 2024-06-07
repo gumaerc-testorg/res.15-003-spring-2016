@@ -3,6 +3,7 @@ content_type: resource
 description: 'Students'' responses to the question: How responsible do you feel that
   corporations should be toward its employees?'
 file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/2504364ed81c33d3126509211e80d52f_MITRES_15_003S16_employees.png
+file_size: 42790
 file_type: image/png
 image_metadata:
   caption: 'Students'' responses to the question: How responsible do you feel that

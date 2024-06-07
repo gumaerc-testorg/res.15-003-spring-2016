@@ -3,6 +3,7 @@ content_type: resource
 description: 'Poll data pie chart for the question: Are you currently represented
   by a labor union?'
 file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/8bd2072bdf546c4247ee35a63394997b_MITRES_15_003S16_union.png
+file_size: 48853
 file_type: image/png
 image_metadata:
   caption: 'Poll data pie chart for the question: Are you currently represented by
