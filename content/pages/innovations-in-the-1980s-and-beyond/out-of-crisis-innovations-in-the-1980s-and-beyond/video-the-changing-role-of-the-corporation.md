@@ -11,7 +11,6 @@ uid: 6b5474e4-cd75-b9d4-1bda-2cc6e5bd5cca
 video_metadata:
   youtube_id: null
 ---
-
 *   {{% resource_link "96aff88c-6f31-8fb3-9fdb-8a00def0dea6" "« Video: The Purpose of the American Corporation" %}}
 *   {{% resource_link 258e8c83-6d79-345d-402f-95a9cd7cf2cd "3.1.1Video: Week 3 Introduction" %}}
 *   {{% resource_link 2e5d4b65-94f4-8664-e8b6-544ba30b03d0 "3.1.2Video: What Changed in the 1980s and Why Should We Care?" %}}
@@ -39,7 +38,7 @@ Attentiveness Question
 {{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="true" >}}&nbsp;Greenmail&nbsp;{{< /quiz_choice >}}
 {{< quiz_choice isCorrect="false" >}}&nbsp;Enron&nbsp;{{< /quiz_choice >}}
 {{< quiz_choice isCorrect="false" >}}&nbsp;Ronald Reagan&nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
-{{< quiz_solution / >}}{{< /quiz_multiple_choice >}}
+{{< quiz_solution >}}Explanation<br />John Reed cites greenmail as a crucial factor in the shift toward companies' focus on short-term stock price.{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
 
 *   {{% resource_link 96aff88c-6f31-8fb3-9fdb-8a00def0dea6 "BackVideo: The Purpose of the American Corporation" %}}
 *   {{% resource_link 726b0c19-ec3a-a546-0434-72c56a57ba42 "ContinueVideo: The Rise and Fall of Saturn" %}}

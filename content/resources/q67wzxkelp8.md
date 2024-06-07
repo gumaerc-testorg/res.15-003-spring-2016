@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/82eccc050888c83069dad54aeb127289_Q67wzxKElp8.srt
+file_size: 10493
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

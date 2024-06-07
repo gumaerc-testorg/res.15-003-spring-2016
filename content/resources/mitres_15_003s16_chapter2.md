@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding chapter 2: the post
   war social contract in shaping the future of work.'
 file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/f0ffaf0da4abe2b69afdc4fa76a4e7fe_MITRES_15_003S16_Chapter2.pdf
+file_size: 236534
 file_type: application/pdf
 learning_resource_types:
 - Readings
