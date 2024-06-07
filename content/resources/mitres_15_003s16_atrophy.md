@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding from steady state to
   atrophy.
 file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/30d1d66833c48c5adbaeb16ccac40efc_MITRES_15_003S16_atrophy.pdf
+file_size: 599981
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding new charters / governance
   models.
 file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/be66a30aa493032085a9a4c7fe3d4363_MITRES_15_003S16_govnmdl.pdf
+file_size: 608954
 file_type: application/pdf
 learning_resource_types:
 - Readings
