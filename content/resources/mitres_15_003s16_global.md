@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding global firms: can we
   hold them accountable?.'
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/58fa95f3c2e6839a0241753e6c496f4f_MITRES_15_003S16_global.pdf
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/58fa95f3c2e6839a0241753e6c496f4f_MITRES_15_003S16_global.pdf
 file_size: 654140
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding the rise and fall of
   saturn.
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/ce897bdb46edea3dd5548b7150839760_MITRES_15_003S16_saturn.pdf
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/ce897bdb46edea3dd5548b7150839760_MITRES_15_003S16_saturn.pdf
 file_size: 632982
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Students'' responses to the question: What is your primary aspiration
   for work?'
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/f0cf0b381373d7c893795ef5cd769c16_MITRES_15_003S16_aspirations.png
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/f0cf0b381373d7c893795ef5cd769c16_MITRES_15_003S16_aspirations.png
 file_size: 48760
 file_type: image/png
 image_metadata:
