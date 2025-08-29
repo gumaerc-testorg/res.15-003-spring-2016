@@ -50,10 +50,11 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Online Textbook",
+    "Open Textbooks",
     "Instructor Insights"
   ],
   "site_uid": "2f4a16d0-135f-4a12-aff5-2afefcee89fb",
   "site_short_id": "res.15-003-spring-2016",
+  "site_url_path": "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016",
   "title": "Course Metadata"
 }

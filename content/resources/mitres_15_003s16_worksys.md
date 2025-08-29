@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding \u201Chigh road\u201D\
   \ and \u201Clow road\u201D strategies and the birth of high performance work systems."
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/f30460f13beac256b34a7b45b1c79be1_MITRES_15_003S16_worksys.pdf
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/f30460f13beac256b34a7b45b1c79be1_MITRES_15_003S16_worksys.pdf
 file_size: 245406
 file_type: application/pdf
 learning_resource_types:

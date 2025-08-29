@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/5e1e7fa32b9dc564f08ab9beeedfddb5_DidA5vk0h_U.pdf
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/5e1e7fa32b9dc564f08ab9beeedfddb5_DidA5vk0h_U.pdf
 file_size: 13566
 file_type: application/pdf
 learning_resource_types: []

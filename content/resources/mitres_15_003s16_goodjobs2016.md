@@ -2,7 +2,7 @@
 content_type: resource
 description: This survey is also linked to in the text, but this is a backup in case
   the online survey disappears.
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/606c3386de852cab188ee303536b1540_MITRES_15_003S16_goodjobs2016.pdf
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/606c3386de852cab188ee303536b1540_MITRES_15_003S16_goodjobs2016.pdf
 file_size: 370211
 file_type: application/pdf
 learning_resource_types: []

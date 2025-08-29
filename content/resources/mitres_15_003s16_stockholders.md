@@ -2,7 +2,7 @@
 content_type: resource
 description: "Students' responses to the question: How responsible do you feel that\
   \ corporations should be toward stockholders?\r\n"
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/b258fa4f886a2a11880aedf67f4bdcec_MITRES_15_003S16_stockholders.png
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/b258fa4f886a2a11880aedf67f4bdcec_MITRES_15_003S16_stockholders.png
 file_size: 42787
 file_type: image/png
 image_metadata:
