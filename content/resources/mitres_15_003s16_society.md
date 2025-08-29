@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Students'' responses to the question: How responsible do you feel that
   corporations should be toward society at large?'
-file: /courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/9ccf21b82424af7c8760cea600b4a36a_MITRES_15_003S16_society.png
+file: /ol-ocw-studio-app/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/9ccf21b82424af7c8760cea600b4a36a_MITRES_15_003S16_society.png
 file_size: 42119
 file_type: image/png
 image_metadata:
