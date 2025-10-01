@@ -55,7 +55,7 @@ And we will offer a lot of personal advice to and provide tools for young people
 
 While we will focus primarily on the challenges and opportunities in the U.S., young workers around the globe face equal if not more difficult challenges. So I welcome participants from across the globe. We will work with you to create learning communities in your region, and our MIT Sloan Management students will help facilitate and support your discussions. Each week we will have a special "Around the World" segment illustrating how some of the issues we discuss are playing out in different part of the globe. In this way we hope you will use the course to assess how you can meet these challenges wherever you live, study, and work.
 
-The course is part of a larger social media-intensive project aimed at achieving a broader understanding of the challenges and opportunities facing next generation workers and families. The materials for that project supplement this course and can be found at [the Speak Up at Work website](https://speakupatwork.com/).
+The course is part of a larger social media-intensive project aimed at achieving a broader understanding of the challenges and opportunities facing next generation workers and families. The materials for that project supplement this course and can be found at {{% resource_link "28f00eb5-6e8e-4baa-aa52-73e95cd44a7f" "the Speak Up at Work website" %}}.
 
 A short book *Shaping the Future of Work* (Business Expert Press, 2016) covers much of the material presented in this course and draws on ideas and data from students who took an early version of the course last year.
 
