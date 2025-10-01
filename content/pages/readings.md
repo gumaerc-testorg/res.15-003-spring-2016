@@ -26,7 +26,7 @@ Introduction: Challenges and Opportunities as You Enter the Workforce
 
 \[Kochan\] {{% resource_link e05bf04d-0841-7045-ecda-da2f7393090b "Chapter 1: The Next Generation's American Dream: What Can Be Done to Achieve It? (PDF)" %}}, pp. 1–24.
 
-Around the World Reading: "[Key Indicators of the Labor Market (KILM)](http://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_423596/lang--en/index.htm)." _International Labour Organization_, 2015.
+Around the World Reading: "{{% resource_link "823f6405-6890-4818-a01b-d392e787b20b" "Key Indicators of the Labor Market (KILM)" %}}." _International Labour Organization_, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2

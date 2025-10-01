@@ -28,7 +28,7 @@ Video: Wealth Inequality in America
 
 {{< resource 5db2b3aa-f8f5-bdfc-137f-44f116401342 >}}
 
-The above video, "Wealth Inequality in America," highlights the CEO-to-average-worker compensation ratio. You may have seen different ratios reported in the news or elsewhere.  The ratio cited in this video is from the AFL-CIO's [Executive Paywatch](https://aflcio.org/paywatch) website.
+The above video, "Wealth Inequality in America," highlights the CEO-to-average-worker compensation ratio. You may have seen different ratios reported in the news or elsewhere.  The ratio cited in this video is from the AFL-CIO's {{% resource_link "94da3498-5215-449d-a2d0-9982e96dfa5b" "Executive Paywatch" %}} website.
 
 An example of a slightly different estimate of compensation ratio, from the Economic Policy Institute, can be found in the next video below.
 

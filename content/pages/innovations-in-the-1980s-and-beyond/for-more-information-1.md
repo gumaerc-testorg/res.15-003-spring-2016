@@ -18,7 +18,7 @@ video_metadata:
 
 ### Hitachi Foundation Website
 
-Skim through examples of small and medium sized high road firms and entrepreneurial firms on [the Hitachi Foundation website](http://www.hitachi-zaidan.org/global/).
+Skim through examples of small and medium sized high road firms and entrepreneurial firms on {{% resource_link "eb36bb13-54b2-4c69-9a18-da09d95589b6" "the Hitachi Foundation website" %}}.
 
 *   {{% resource_link 41df0944-87b8-8a5c-fe77-59103bdb2464 "BackVideo: Interview with Ms. Nazma Akter" %}}
 *   {{% resource_link 3540dcb6-fb3e-3c8e-faca-c24bd7cb1835 "ContinueNew Emerging Models" %}}
