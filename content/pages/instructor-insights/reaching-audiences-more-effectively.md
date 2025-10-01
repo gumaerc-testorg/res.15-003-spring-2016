@@ -19,7 +19,7 @@ _In this section, Professor Tom Kochan shares that he’d like to find ways to c
 
 {{< resource 19e49b79-3454-3b0e-8086-2549ebf2c3da >}}
 
-World War II era propaganda poster encouraging unity between labor and management. (Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TOGETHER_WE_CAN_DO_IT_-_KEEP_%60EM_FIRING_-_NARA_-_515856.jpg).)
+World War II era propaganda poster encouraging unity between labor and management. (Image is in the public domain. Source: {{% resource_link "3b0f6597-5fdf-42f0-864d-39d22b1f8d1d" "Wikimedia Commons" %}}.)
 
 There are people out there who need assistance thinking about their careers, and there are organizations struggling to change in ways that improve both the performance of the organizations and the quality of work they provide employees. I want to keep searching for ways to reach these audiences more effectively.
 
