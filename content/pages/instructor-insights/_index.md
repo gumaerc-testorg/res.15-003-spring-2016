@@ -17,7 +17,7 @@ This page focuses on the course _15.662x Shaping the Future of Work_ as it was t
 
 This course, which is offered by MITx on the edX platform as a Massive Open Online Course (MOOC), examines what made it possible for workers in the twentieth century to realize a rising standard of living throughout much of their careers, and then focuses on what changed, why conditions changed, and the relevance of this history for shaping the future of work.
 
-15.662x was developed from the residential {{% resource_link "706e946d-07c3-49a7-b5d7-5f0e7921c598" "MIT Sloan School of Management" %}} MBA course, _15.662 Managing Sustainable Businesses for People and Profits_.
+15.662x was developed from the residential [MIT Sloan School of Management](https://mitsloan.mit.edu/) MBA course, _15.662 Managing Sustainable Businesses for People and Profits_.
 
 ## Resource Outcomes
 
@@ -56,8 +56,8 @@ _Below, Professor Tom Kochan describes various aspects of how he taught 15.662x 
 
 _Learn more! The following Residential Digital Innovations pages provide more information on how residential students can benefit from interacting with online students through a MOOC._
 
-- {{% resource_link "164b1ecc-23f7-4fa6-aa92-b560bb77a963" "MOOCs Benefit Residential: Shaping the Future of Work" %}}
-- {{% resource_link "bdde6bb0-6569-4589-8420-6b09ae595cbe" "Blending Online & Campus Courses" %}}
+- [MOOCs Benefit Residential: Shaping the Future of Work](https://openlearning.mit.edu/campus/digital-innovations/moocs-benefit-residential-shaping-future-work)
+- [Blending Online & Campus Courses](https://openlearning.mit.edu/campus/digital-innovations/blending-online-campus-courses)
 
 ## Curriculum Information
 
@@ -71,7 +71,7 @@ None
 
 ### Offered
 
-MITx offers a free version of this subject {{% resource_link "997d5b30-f6ef-400b-9a1c-a0f8c3b1c83d" "on the edX platform" %}}: _15.662x Shaping the Future of Work_.
+MITx offers a free version of this subject [on the edX platform](https://www.edx.org/school/mitx): _15.662x Shaping the Future of Work_.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
