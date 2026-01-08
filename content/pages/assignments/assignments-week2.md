@@ -27,7 +27,7 @@ Once you complete the questions, the Profiler arrays the strength of your intere
 
 For this assignment, there are four steps:
 
-1.  Complete the U.S. Department of Labor {{% resource_link "db0a0d63-200e-404d-aace-cbc1e0ef6b2f" "O\*Net Interest Profiler" %}} and identify a job that you might like to pursue.
+1.  Complete the U.S. Department of Labor [O\*Net Interest Profiler](http://www.mynextmove.org/explore/ip) and identify a job that you might like to pursue.
 2.  After identifying a job you might like to pursue, find people who work in that or a similar job: You can ask family or friends. You can also search the internet for professional communities online and post questions (for example, enter the job name + "forum" or "online community" into your search browser and create an account, if necessary).
 3.  Ask these individuals for their opinions: What do they like and dislike about their job? How are they treated by their organization? Do they have recommendations for someone who is considering this line of work?
 4.  Write up your experiences and submit them for peer review. Be sure to describe the job you considered, where you turned for information, and the feedback that you received.
